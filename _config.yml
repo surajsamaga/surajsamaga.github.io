@@ -21,13 +21,11 @@ author: Suraj Samaga
 
 navbar-links:
   About Me: "aboutme"
-  Resume: "https://drive.google.com/file/d/1rAoPvtexrBoOCA_0usZMDV5evvSLpx0A/view?usp=sharing"
   CV: "https://drive.google.com/file/d/1rAoPvtexrBoOCA_0usZMDV5evvSLpx0A/view?usp=sharing"
   Projects: "projects"
   Resources:
     - Course Reviews: "https://dampeeiitb.wordpress.com/course-reviews/"
     - Grad Advice: "https://github.com/shaily99/advice"
-    - FPL: "https://fantasy.premierleague.com/"
 
 ################
 # --- Logo --- #
@@ -166,7 +164,7 @@ footer-hover-col: "#0085A1"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+google_analytics: "G-CB2EWFTM9K"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
