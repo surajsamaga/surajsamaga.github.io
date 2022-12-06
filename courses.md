@@ -7,7 +7,7 @@ Here is a comprehensive list of courses that I have credited at IITB. Details of
 
 ### VLSI
 - Mixed Signal VLSI Design \[EE 719\]
-- CMOS Analog VLSI Design \[EE 618\]
+- CMOS Analog VLSI Design \[EE 618\] [Review](/assets/iitb/EE618_2021_Review)
 - RF Microelectronics Chip Design \[EE 619\]
 - Advanced CMOS Logic and Flash Memory Devices \[EE 788\]
 - VLSI Design \[EE 671\]
