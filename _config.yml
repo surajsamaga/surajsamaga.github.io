@@ -21,7 +21,7 @@ author: Suraj Samaga
 
 navbar-links:
   About Me: "aboutme"
-  CV: "docs/suraj_grad_cv.pdf"
+  CV: "/docs/suraj_grad_cv.pdf"
   Courses: "courses"
   Resources:
     - Grad Advice: "https://github.com/shaily99/advice"
@@ -50,7 +50,7 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "surajsamaga@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
   github: surajsamaga
 #   twitter: daattali
@@ -58,7 +58,7 @@ social-network-links:
 #   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: suraj-samaga
+ linkedin: suraj-samaga
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
