@@ -3,7 +3,7 @@ layout: page
 title: Courses
 ---
 
-Here is a comprehensive list of courses that I have credited at IITB. Details of all the courses offered by the EE department can be found [here](https://www.ee.iitb.ac.in/web/academics/courses/). Reviews to a few of these courses can be found on the [EE-DAMP](https://dampeeiitb.wordpress.com/course-reviews/) website.
+Here is a comprehensive list of courses that I have credited at IITB. Details of all the courses offered by the EE department can be found [here](https://www.ee.iitb.ac.in/web/academics/courses/). Reviews to some of these courses can be found on the [EE-DAMP](https://dampeeiitb.wordpress.com/course-reviews/) website.
 
 ### VLSI
 - Mixed Signal VLSI Design \[EE 719\]
