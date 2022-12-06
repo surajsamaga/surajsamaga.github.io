@@ -6,14 +6,14 @@ title: Courses
 Here is a comprehensive list of courses that I have credited at IITB. Details of all the courses offered by the EE department can be found [here](https://www.ee.iitb.ac.in/web/academics/courses/). Reviews to a few of these courses can be found on the [EE-DAMP](https://dampeeiitb.wordpress.com/course-reviews/) website.
 
 ### VLSI
-- Mixed Signal VLSI Design (EE 719)
-- CMOS Analog VLSI Design (EE 618)
-- RF Microelectronics Chip Design (EE 619)
-- Advanced CMOS Logic and Flash Memory Devices (EE 788)
-- VLSI Design (EE 671)
-- Processor Design (EE 739)
-- Algorithmic Design of Digital Systems (EE 789)
-- Nanoelectronics (EE 724)
+- Mixed Signal VLSI Design \[EE 719\]
+- CMOS Analog VLSI Design \[EE 618\]
+- RF Microelectronics Chip Design \[EE 619\]
+- Advanced CMOS Logic and Flash Memory Devices \[EE 788\]
+- VLSI Design \[EE 671\]
+- Processor Design \[EE 739\]
+- Algorithmic Design of Digital Systems \[EE 789\]
+- Nanoelectronics \[EE 724\]
 
 ### Data Science and Programming
 - Image Processing (EE 610)
