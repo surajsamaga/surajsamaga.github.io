@@ -21,7 +21,7 @@ author: Suraj Samaga
 
 navbar-links:
   About Me: "aboutme"
-  CV: "https://drive.google.com/file/d/1Ig49SFQNyE0I_NZWhua9i7AIp1Q4P7s0/view?usp=sharing"
+  CV: "docs/suraj_grad_cv.pdf"
   Courses: "courses"
   Resources:
     - Grad Advice: "https://github.com/shaily99/advice"
