@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Review - EE 344 (2022)
+title: Review - EE 344
 subtitle: Electronic Design Lab
 ---
 
