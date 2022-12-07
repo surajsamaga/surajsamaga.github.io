@@ -35,6 +35,7 @@ The lab attendants such as Maheshwar sir were extremely helpful in troubleshooti
 
 1. 30% Midsem
 2. 70% Project
+
 Most of the midsem content was from the lectures, and was of a fairly high difficulty. Progress of each group was monitored every week and the project grade depends on the group's involvement, effort put in, and of course, the final output. Each group was supposed to submit a final project report and demonstrate the working of their project a week before Endsems, followed by a viva.
 
 **Study Material and References**
