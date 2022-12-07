@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Review - EE 618 (2021)
+title: Review - EE 618 
 subtitle: CMOS Analog VLSI Design 
 ---
 
