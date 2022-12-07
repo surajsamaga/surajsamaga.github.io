@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Course Review
-subtitle: EE 344 – Electronic Design Lab (2022)
+title: Review - EE 344 (2022)
+subtitle: Electronic Design Lab
 ---
 
 **Course Offered In**
