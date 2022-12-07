@@ -65,7 +65,7 @@ The professor announced a list of important topics right before midsem and endse
 1. Supriyo Datta, Lessons in nanoelectronics: A new perspective on Transport, World Scientific (2012)
 2. Supriyo Datta, Quantum transport: Atom to Transistor: Cambridge Univ Press (2005)
 3. T. Heikkila, Physics of Nanoelectronics, Oxford University Press, (2013)
-4. Resources from http://www.nanohub.org as instructed
+4. Resources from [Nanohub](http://www.nanohub.org) as instructed
 
 Slides were packed with a lot of information, and the professor would share the slides and relevant chapters from each book after each lecture and occasionally some device-based research papers for further reading. Going through the shared material is advisable for a better understanding of each lecture.
 I found the second book to be the most useful of the lot, the professor also based his content around this book mainly.
