@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Course Review
-subtitle: EE 618 – CMOS Analog VLSI Design (2021)
-tags: [EE 618 Course Review]
+title: Review - EE 618 (2021)
+subtitle: CMOS Analog VLSI Design 
 ---
 
 **Course Offered In**
