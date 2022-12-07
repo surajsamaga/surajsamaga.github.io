@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Course Review
-subtitle: EE 724 – Nanoelectronics (2021)
+title: Review - EE 724
+subtitle: Nanoelectronics
 ---
 
 **Course Offered In**
