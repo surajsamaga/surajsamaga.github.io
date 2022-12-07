@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Course Review
-subtitle: EE 619 – RF Microelectronics Chip Design (2022)
+title: Review - EE 619
+subtitle: RF Microelectronics Chip Design
 ---
 
 **Course Offered In**
