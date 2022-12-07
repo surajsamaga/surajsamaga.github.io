@@ -3,17 +3,17 @@ layout: page
 title: Courses
 ---
 
-Here is a comprehensive list of courses that I have credited at IITB. Details of all the courses offered by the EE department can be found [here](https://www.ee.iitb.ac.in/web/academics/courses/). Reviews to some of these courses can be found on the [EE-DAMP](https://dampeeiitb.wordpress.com/course-reviews/) website.
+Here is a comprehensive list of courses that I have credited at IITB. Details of all the courses offered by the EE department can be found [here](https://www.ee.iitb.ac.in/web/academics/courses/). I have written detailed reviews for a few of these courses as part of the [EE-DAMP team](https://dampeeiitb.wordpress.com/course-reviews/), which can be found next to the corresponding course in the list
 
 ### VLSI
 - Mixed Signal VLSI Design \[EE 719\]
-- CMOS Analog VLSI Design \[EE 618\] [Review](/assets/iitb/EE618_2021_Review)
-- RF Microelectronics Chip Design \[EE 619\]
+- CMOS Analog VLSI Design \[EE 618\] \[[Review](/assets/iitb/EE618_2021_Review)\]
+- RF Microelectronics Chip Design \[EE 619\] \[[Review](/assets/iitb/EE619_2022_Review)\]
 - Advanced CMOS Logic and Flash Memory Devices \[EE 788\]
 - VLSI Design \[EE 671\]
 - Processor Design \[EE 739\]
 - Algorithmic Design of Digital Systems \[EE 789\]
-- Nanoelectronics \[EE 724\]
+- Nanoelectronics \[EE 724\] \[[Review](/assets/iitb/EE724_2021_Review)\]
 
 ### Data Science and Programming
 - Image Processing \[EE 610\]
@@ -26,6 +26,7 @@ Here is a comprehensive list of courses that I have credited at IITB. Details of
 ### Foundational Electrical Engineering
 - Analog Circuits \[EE 204, EE 230\]
 - Digital Systems \[EE 224, EE 214\]
+- Electronic Design Lab \[EE 344\] \[[Review](/assets/iitb/EE344_2022_Review)\]
 - Microprocessors \[EE 309, EE 337\]
 - Electronic Devices \[EE 207, EE 236\]
 - Control Theory \[EE 302, EE 324\]
