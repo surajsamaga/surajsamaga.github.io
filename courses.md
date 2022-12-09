@@ -11,7 +11,7 @@ Here is a comprehensive list of courses that I have credited at IITB. Details of
 - RF Microelectronics Chip Design \[EE 619\] \[[Review](/assets/iitb/EE619_2022_Review)\]
 - Advanced CMOS Logic and Flash Memory Devices \[EE 788\]
 - VLSI Design \[EE 671\]
-- Processor Design \[EE 739\]
+- Processor Design \[EE 739\] \[[Review](/assets/iitb/EE739_2022_Review)\]
 - Algorithmic Design of Digital Systems \[EE 789\]
 - Nanoelectronics \[EE 724\] \[[Review](/assets/iitb/EE724_2021_Review)\]
 
