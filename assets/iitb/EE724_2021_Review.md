@@ -49,6 +49,7 @@ Module 1 and about 50% of Module 2 were covered pre-midsem. Modules 3 and 4 were
 
 The professor’s explanations were very crisp and precise, and he did not shy away from explaining the same thing multiple times. However due to the sheer amount of content being covered in the course, each lecture was very heavy.<br>
 The course was conducted in an online mode, so lecture slides were used for presentation, and the professor pulled out the whiteboard to explain or emphasize on any important concept or derivation.
+
 **Feedback on Evaluations**
 
 The evaluation scheme was as follows:
