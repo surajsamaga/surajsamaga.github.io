@@ -3,13 +3,13 @@ layout: page
 title: Courses
 ---
 
-Here is a comprehensive list of courses that I have credited at IITB. Details of the EE courses can be found [here](https://www.ee.iitb.ac.in/web/academics/courses/). I have written detailed reviews for a few courses as part of the [EE-DAMP team](https://dampeeiitb.wordpress.com/course-reviews/), which can be found next to the corresponding course in the list.
+Here is a comprehensive list of courses that I have credited at IITB. Details of the EE courses can be found [here](https://www.ee.iitb.ac.in/web/academics/courses/). I have written detailed reviews for a few courses as part of the [EE-DAMP team](https://ee-damp.github.io/), which can be found next to the corresponding course in the list.
 
 ### VLSI
 - Mixed Signal VLSI Design \[EE 719\]
 - CMOS Analog VLSI Design \[EE 618\] \[[Review](/assets/iitb/EE618_2021_Review)\]
 - RF Microelectronics Chip Design \[EE 619\] \[[Review](/assets/iitb/EE619_2022_Review)\]
-- Advanced CMOS Logic and Flash Memory Devices \[EE 788\]
+- Advanced CMOS Logic and Flash Memory Devices \[EE 788\] \[[Review](/assets/iitb/EE788_2022_Review)\]
 - VLSI Design \[EE 671\]
 - Processor Design \[EE 739\] \[[Review](/assets/iitb/EE739_2022_Review)\]
 - Algorithmic Design of Digital Systems \[EE 789\]
